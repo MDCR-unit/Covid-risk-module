@@ -1,4 +1,4 @@
-name: "Covid compound risk"
+name: "Covid-risk-module"
 output_dir: "docs"
 navbar:
   title: "Covid risk module"

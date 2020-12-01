@@ -213,7 +213,7 @@ We run this for several more countries, a mix between our developing sample and 
 |  Spain         | -25.58          | -26.173        | 
 
 
-Seeing that this model predicts close to the observed GDP impact, we can use it to extrapolate impact on the labour market in Morocco.  
+Seeing that this model predicts close to the observed GDP impact, we can use it to extrapolate the impact on the labour market in Morocco.  
 
 
 
